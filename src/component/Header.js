@@ -13,6 +13,9 @@ function Header() {
       <Link to={"/Contact"} className="text-orange-950 font-bold  px-5">
         Contact
       </Link>
+      <Link to={'/Product'} className="text-orange-950 font-bold  px-5">
+        Product
+      </Link>
     </div>
   );
 }
