@@ -1,11 +1,11 @@
 import React from 'react'
 
-const other = () => {
+const capto = () => {
   return (
     <div>
-      <div>other</div>
+      
     </div>
   )
 }
 
-export default other
+export default capto
